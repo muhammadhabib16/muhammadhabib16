@@ -7,11 +7,6 @@
   
   <br><br>
 
-  <!-- Tech Stack & Tools -->
-  <h3>🛠️ Tech Stack & Tools</h3>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,php,python,dart,kotlin,react,nextjs,tailwind,laravel,fastapi,nodejs,flutter,mysql,postgres,sqlite,firebase,supabase,ubuntu,linux,docker,nginx&perline=11" alt="Tech Stack" />
-  </a>
 
   <!-- Tech Stack & Tools -->
   <h3>🛠️ Tech Stack & Tools</h3>
