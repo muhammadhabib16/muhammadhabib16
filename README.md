@@ -1,8 +1,8 @@
 <div align="center">
 
-  <!-- Animasi Typing Dinamis & Interaktif -->
-  <a href="mailto:mhabibmhabib05@gmail.com" target="_blank" title="Klik untuk mengirim email ke saya!">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=25&pause=1000&color=7AA2F7;BB9AF7;7DCFFF;9ECE6A&center=true&vCenter=true&width=600&height=50&lines=Hello+World!;Full-Stack+Developer;Data+Enthusiast;Software+Engineer;Muhammad+Habib" alt="Typing SVG" />
+<!-- Animasi Typing Nuansa Cyber/Matrix -->
+  <a href="mailto:mhabibmhabib05@gmail.com" target="_blank" title="Ping the sysadmin!">
+    <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=600&size=24&pause=1000&color=00FF41&background=0D1117&center=true&vCenter=true&width=600&height=60&lines=>_SYSTEM+INITIALIZED...;>_HELLO,+BOS!;>_ACCESSING+MAINFRAME...;>_FULL-STACK+PROTOCOL+ENGAGED" alt="Typing SVG Matrix" />
   </a>
   
   <br><br>
