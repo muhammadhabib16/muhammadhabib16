@@ -2,7 +2,7 @@
 
 <!-- Animasi Typing Nuansa Cyber/Matrix -->
   <a href="mailto:mhabibmhabib05@gmail.com" target="_blank" title="Ping the sysadmin!">
-    <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=600&size=24&pause=1000&color=00FF41&background=0D1117&center=true&vCenter=true&width=600&height=60&lines=>_SYSTEM+INITIALIZED...;>_HELLO,+BOS!;>_ACCESSING+MAINFRAME...;>_FULL-STACK+PROTOCOL+ENGAGED" alt="Typing SVG Matrix" />
+    <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=600&size=24&pause=1000&color=00FF41&background=0D1117&center=true&vCenter=true&width=600&height=60&lines=>_SYSTEM+INITIALIZED...;>_HELLO,+FELLAS!;>_ACCESSING+MAINFRAME...;>_FULL-STACK+PROTOCOL+ENGAGED" alt="Typing SVG Matrix" />
   </a>
   
   <br><br>
@@ -11,7 +11,7 @@
   <!-- Tech Stack & Tools -->
   <h3>🛠️ Tech Stack & Tools</h3>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,php,python,dart,kotlin,react,nextjs,tailwind,laravel,fastapi,nodejs,flutter,mysql,postgres,sqlite,firebase,supabase,ubuntu,linux,docker,nginx&perline=11" alt="Tech Stack" />
+    <img src="https://skillicons.dev/icons?i=js,ts,php,python,dart,kotlin,react,nextjs,tailwind,laravel,nodejs,flutter,mysql,postgres,sqlite,firebas,supabase,ubuntu,linux,docker,nginx&perline=11" alt="Tech Stack" />
   </a>
 
   <br><br>
