@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 400" width="100%" height="400">
   <defs>
-    <!-- Animasi Pengetikan Perintah (Commands) -->
+    
     <clipPath id="type-cmd1">
       <rect x="0" y="50" width="0" height="30">
         <animate attributeName="width" from="0" to="800" begin="0.5s" dur="0.8s" fill="freeze" />
@@ -12,7 +12,7 @@
       </rect>
     </clipPath>
 
-    <!-- Animasi Pemunculan Output Teks -->
+   
     <clipPath id="show-out1">
       <rect x="0" y="80" width="800" height="0">
         <animate attributeName="height" from="0" to="140" begin="1.5s" dur="0.1s" fill="freeze" />
@@ -24,7 +24,7 @@
       </rect>
     </clipPath>
 
-    <!-- Animasi Kursor Berkedip -->
+  
     <clipPath id="show-cursor">
       <rect x="0" y="350" width="0" height="30">
         <animate attributeName="width" from="0" to="800" begin="4.2s" dur="0.1s" fill="freeze" />
@@ -41,10 +41,9 @@
     .text-title { font-family: 'Courier New', Courier, monospace; font-size: 12px; fill: #8B949E; }
   </style>
 
-  <!-- Latar Belakang Jendela Terminal -->
-  <rect width="100%" height="100%" class="term-bg" rx="10" />
   
-  <!-- UI Top Bar macOS/Linux -->
+  <rect width="100%" height="100%" class="term-bg" rx="10" />
+
   <rect width="100%" height="30" class="term-bar" rx="10" />
   <rect width="100%" height="15" y="15" class="term-bar" /> 
   <circle cx="20" cy="15" r="6" fill="#FF5F56" />
@@ -76,7 +75,6 @@
       <text x="20" y="320">- Expanding expertise in Cloud Computing, Mobile Programming &amp; DevOps.</text>
     </g>
 
-    <!-- Prompt Kursor Terakhir -->
     <g clip-path="url(#show-cursor)">
       <text x="20" y="370" class="text-prompt">root@homelab:~$ <tspan fill="#C9D1D9">█</tspan>
         <animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite" />
