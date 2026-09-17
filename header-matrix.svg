@@ -1,79 +1,66 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 200" width="100%" height="200">
-  <!-- Blok CSS untuk Styling Font dan Efek -->
+  <defs>
+    <clipPath id="typing-title">
+      <rect x="0" y="0" width="0" height="110">
+        <animate attributeName="width" from="0" to="800" dur="1.5s" fill="freeze" />
+      </rect>
+    </clipPath>
+    <clipPath id="typing-name">
+      <rect x="0" y="110" width="0" height="90">
+        <animate attributeName="width" from="0" to="800" begin="1.5s" dur="1.5s" fill="freeze" />
+      </rect>
+    </clipPath>
+  </defs>
+
   <style>
     @import url('https://fonts.googleapis.com/css2?family=VT323&amp;display=swap');
-    
     .terminal-text {
-      /* Menggunakan font 8-bit VT323, dengan fallback ke Courier New */
       font-family: 'VT323', 'Courier New', Courier, monospace;
     }
-    
     .matrix-rain {
       font-family: 'Courier New', Courier, monospace;
-      /* Memaksa teks dirender secara vertikal dari atas ke bawah */
       writing-mode: vertical-rl;
       text-orientation: upright;
       letter-spacing: 6px;
     }
   </style>
 
-  <!-- Latar Belakang Gelap -->
   <rect width="100%" height="100%" fill="#0D1117" />
 
-  <!-- Efek Hujan Biner Vertikal (Matrix Rain) -->
-  <g class="matrix-rain" font-size="14" fill="#00FF41" opacity="0.4">
-    <text x="40" y="-150">
-      010101101
-      <animate attributeName="y" values="-200;250" dur="2.5s" repeatCount="indefinite" />
-    </text>
-    <text x="140" y="-200">
-      1011001010
-      <animate attributeName="y" values="-200;250" dur="3.2s" repeatCount="indefinite" />
-    </text>
-    <text x="240" y="-100">
-      001011100
-      <animate attributeName="y" values="-200;250" dur="2.1s" repeatCount="indefinite" />
-    </text>
-    <text x="340" y="-250">
-      1100101011
-      <animate attributeName="y" values="-200;250" dur="4.0s" repeatCount="indefinite" />
-    </text>
-    <text x="440" y="-150">
-      100101001
-      <animate attributeName="y" values="-200;250" dur="2.8s" repeatCount="indefinite" />
-    </text>
-    <text x="540" y="-300">
-      0111001101
-      <animate attributeName="y" values="-200;250" dur="3.6s" repeatCount="indefinite" />
-    </text>
-    <text x="640" y="-100">
-      111001010
-      <animate attributeName="y" values="-200;250" dur="2.3s" repeatCount="indefinite" />
-    </text>
-    <text x="740" y="-200">
-      0011101100
-      <animate attributeName="y" values="-200;250" dur="3.0s" repeatCount="indefinite" />
-    </text>
+  <g class="matrix-rain" fill="#00FF41">
+    <text x="15" y="-120" font-size="12" opacity="0.3">1010110<animate attributeName="y" values="-120;250" dur="2.1s" repeatCount="indefinite" /></text>
+    <text x="45" y="-200" font-size="16" opacity="0.5">0110010101<animate attributeName="y" values="-200;250" dur="3.4s" repeatCount="indefinite" /></text>
+    <text x="75" y="-150" font-size="14" opacity="0.4">1101001<animate attributeName="y" values="-150;250" dur="2.6s" repeatCount="indefinite" /></text>
+    <text x="110" y="-250" font-size="18" opacity="0.6">0011010110<animate attributeName="y" values="-250;250" dur="4.2s" repeatCount="indefinite" /></text>
+    <text x="140" y="-100" font-size="12" opacity="0.2">101011<animate attributeName="y" values="-100;250" dur="1.9s" repeatCount="indefinite" /></text>
+    <text x="175" y="-300" font-size="15" opacity="0.5">010100111<animate attributeName="y" values="-300;250" dur="3.8s" repeatCount="indefinite" /></text>
+    <text x="210" y="-180" font-size="13" opacity="0.3">1110010<animate attributeName="y" values="-180;250" dur="2.9s" repeatCount="indefinite" /></text>
+    <text x="250" y="-130" font-size="16" opacity="0.6">00101101<animate attributeName="y" values="-130;250" dur="2.4s" repeatCount="indefinite" /></text>
+    <text x="290" y="-220" font-size="14" opacity="0.4">1011011<animate attributeName="y" values="-220;250" dur="3.1s" repeatCount="indefinite" /></text>
+    <text x="325" y="-160" font-size="12" opacity="0.2">011100<animate attributeName="y" values="-160;250" dur="2.3s" repeatCount="indefinite" /></text>
+    <text x="365" y="-280" font-size="17" opacity="0.5">110010101<animate attributeName="y" values="-280;250" dur="4.0s" repeatCount="indefinite" /></text>
+    <text x="400" y="-110" font-size="15" opacity="0.7">010101<animate attributeName="y" values="-110;250" dur="2.0s" repeatCount="indefinite" /></text>
+    <text x="435" y="-240" font-size="13" opacity="0.3">10100110<animate attributeName="y" values="-240;250" dur="3.5s" repeatCount="indefinite" /></text>
+    <text x="475" y="-190" font-size="16" opacity="0.6">0011101<animate attributeName="y" values="-190;250" dur="2.8s" repeatCount="indefinite" /></text>
+    <text x="515" y="-140" font-size="12" opacity="0.4">110101<animate attributeName="y" values="-140;250" dur="2.5s" repeatCount="indefinite" /></text>
+    <text x="555" y="-270" font-size="15" opacity="0.5">011001011<animate attributeName="y" values="-270;250" dur="3.9s" repeatCount="indefinite" /></text>
+    <text x="590" y="-170" font-size="14" opacity="0.3">101010<animate attributeName="y" values="-170;250" dur="2.7s" repeatCount="indefinite" /></text>
+    <text x="630" y="-210" font-size="18" opacity="0.6">11011001<animate attributeName="y" values="-210;250" dur="3.6s" repeatCount="indefinite" /></text>
+    <text x="670" y="-130" font-size="12" opacity="0.2">001101<animate attributeName="y" values="-130;250" dur="2.2s" repeatCount="indefinite" /></text>
+    <text x="710" y="-290" font-size="16" opacity="0.5">101001101<animate attributeName="y" values="-290;250" dur="4.1s" repeatCount="indefinite" /></text>
+    <text x="750" y="-150" font-size="13" opacity="0.4">011100<animate attributeName="y" values="-150;250" dur="2.6s" repeatCount="indefinite" /></text>
+    <text x="780" y="-230" font-size="15" opacity="0.6">1101011<animate attributeName="y" values="-230;250" dur="3.2s" repeatCount="indefinite" /></text>
   </g>
 
-  <!-- Teks Utama (Foreground) -->
   <g class="terminal-text" font-weight="bold" text-anchor="middle">
-    <!-- Efek Glow/Shadow (CRT Monitor Effect) untuk Judul -->
-    <text x="50.2%" y="45.5%" font-size="38" fill="#00FF41" opacity="0.3" letter-spacing="2">
-      >_ HELLO, FELLAS!
-    </text>
-    <!-- Teks Judul Asli -->
-    <text x="50%" y="45%" font-size="38" fill="#00FF41" letter-spacing="2">
-      >_ HELLO, FELLAS!
-    </text>
+    <g clip-path="url(#typing-title)">
+      <text x="50.2%" y="45.5%" font-size="38" fill="#00FF41" opacity="0.3" letter-spacing="2">>_ HELLO, FELLAS!</text>
+      <text x="50%" y="45%" font-size="38" fill="#00FF41" letter-spacing="2">>_ HELLO, FELLAS!</text>
+    </g>
     
-    <!-- Efek Glow/Shadow untuk Nama -->
-    <text x="50.2%" y="65.5%" font-size="26" fill="#7AA2F7" opacity="0.3" letter-spacing="4">
-      MUHAMMAD HABIB
-    </text>
-    <!-- Teks Nama Asli -->
-    <text x="50%" y="65%" font-size="26" fill="#7AA2F7" letter-spacing="4">
-      MUHAMMAD HABIB
-    </text>
+    <g clip-path="url(#typing-name)">
+      <text x="50.2%" y="65.5%" font-size="26" fill="#7AA2F7" opacity="0.3" letter-spacing="4">MUHAMMAD HABIB</text>
+      <text x="50%" y="65%" font-size="26" fill="#7AA2F7" letter-spacing="4">MUHAMMAD HABIB</text>
+    </g>
   </g>
 </svg>
