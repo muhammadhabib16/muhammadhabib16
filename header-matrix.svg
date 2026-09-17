@@ -1,0 +1,79 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 200" width="100%" height="200">
+  <!-- Blok CSS untuk Styling Font dan Efek -->
+  <style>
+    @import url('https://fonts.googleapis.com/css2?family=VT323&amp;display=swap');
+    
+    .terminal-text {
+      /* Menggunakan font 8-bit VT323, dengan fallback ke Courier New */
+      font-family: 'VT323', 'Courier New', Courier, monospace;
+    }
+    
+    .matrix-rain {
+      font-family: 'Courier New', Courier, monospace;
+      /* Memaksa teks dirender secara vertikal dari atas ke bawah */
+      writing-mode: vertical-rl;
+      text-orientation: upright;
+      letter-spacing: 6px;
+    }
+  </style>
+
+  <!-- Latar Belakang Gelap -->
+  <rect width="100%" height="100%" fill="#0D1117" />
+
+  <!-- Efek Hujan Biner Vertikal (Matrix Rain) -->
+  <g class="matrix-rain" font-size="14" fill="#00FF41" opacity="0.4">
+    <text x="40" y="-150">
+      010101101
+      <animate attributeName="y" values="-200;250" dur="2.5s" repeatCount="indefinite" />
+    </text>
+    <text x="140" y="-200">
+      1011001010
+      <animate attributeName="y" values="-200;250" dur="3.2s" repeatCount="indefinite" />
+    </text>
+    <text x="240" y="-100">
+      001011100
+      <animate attributeName="y" values="-200;250" dur="2.1s" repeatCount="indefinite" />
+    </text>
+    <text x="340" y="-250">
+      1100101011
+      <animate attributeName="y" values="-200;250" dur="4.0s" repeatCount="indefinite" />
+    </text>
+    <text x="440" y="-150">
+      100101001
+      <animate attributeName="y" values="-200;250" dur="2.8s" repeatCount="indefinite" />
+    </text>
+    <text x="540" y="-300">
+      0111001101
+      <animate attributeName="y" values="-200;250" dur="3.6s" repeatCount="indefinite" />
+    </text>
+    <text x="640" y="-100">
+      111001010
+      <animate attributeName="y" values="-200;250" dur="2.3s" repeatCount="indefinite" />
+    </text>
+    <text x="740" y="-200">
+      0011101100
+      <animate attributeName="y" values="-200;250" dur="3.0s" repeatCount="indefinite" />
+    </text>
+  </g>
+
+  <!-- Teks Utama (Foreground) -->
+  <g class="terminal-text" font-weight="bold" text-anchor="middle">
+    <!-- Efek Glow/Shadow (CRT Monitor Effect) untuk Judul -->
+    <text x="50.2%" y="45.5%" font-size="38" fill="#00FF41" opacity="0.3" letter-spacing="2">
+      >_ HELLO, FELLAS!
+    </text>
+    <!-- Teks Judul Asli -->
+    <text x="50%" y="45%" font-size="38" fill="#00FF41" letter-spacing="2">
+      >_ HELLO, FELLAS!
+    </text>
+    
+    <!-- Efek Glow/Shadow untuk Nama -->
+    <text x="50.2%" y="65.5%" font-size="26" fill="#7AA2F7" opacity="0.3" letter-spacing="4">
+      MUHAMMAD HABIB
+    </text>
+    <!-- Teks Nama Asli -->
+    <text x="50%" y="65%" font-size="26" fill="#7AA2F7" letter-spacing="4">
+      MUHAMMAD HABIB
+    </text>
+  </g>
+</svg>
