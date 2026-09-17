@@ -1,9 +1,6 @@
 <div align="center">
 
-  <!-- Animasi Typing Nuansa Cyber/Matrix -->
-  <a href="mailto:mhabibmhabib05@gmail.com" target="_blank" title="Ping the sysadmin!">
-    <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=600&size=24&pause=1000&color=00FF41&background=0D1117&center=true&vCenter=true&width=600&height=60&lines=>_SYSTEM+INITIALIZED...;>_HELLO,+FELLAS!;My+Name+Is;MUHAMMAD+HABIB!;>_ACCESSING+MAINFRAME...;>_FULL-STACK+PROTOCOL+ENGAGED&v=2" alt="Typing SVG Matrix" />
-  </a>
+  <img src="./header-matrix.svg" alt="Cyber Matrix Banner" width="100%" />
   
   <p align="center">
     <a href="https://www.linkedin.com/in/muhammadhabib16/"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00FF41" alt="LinkedIn"></a>
@@ -37,15 +34,6 @@ I am an Information Systems student and Lab Teaching Assistant at Universitas An
   </a>
 
   <br><br>
-
-  <!-- Spotify API di-comment sementara sampai mendapatkan UID resmi -->
-  <!-- 
-  <h3>Now Playing</h3>
-  <a href="https://spotify-github-profile.vercel.app/api/view?uid=UID_DISINI&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false">
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=UID_DISINI&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false" alt="Spotify Now Playing" />
-  </a>
-  <br><br>
-  -->
 
   <h3>System Analytics</h3>
   <a href="https://github.com/muhammadhabib16">
