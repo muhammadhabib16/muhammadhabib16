@@ -40,3 +40,5 @@
   </picture>
 
 </div>
+
+<img src="./footer-wave.svg" alt="Futuristic Wave" width="100%" />
