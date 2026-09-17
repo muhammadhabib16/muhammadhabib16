@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 200" width="100%" height="200">
+  <defs>
+    <linearGradient id="gradOrange" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#FF8C00" />
+      <stop offset="50%" stop-color="#E90207" />
+      <stop offset="100%" stop-color="#ff0080" />
+    </linearGradient>
+    
+    <linearGradient id="gradBlue" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#ff0080" />
+      <stop offset="50%" stop-color="#7600ea" />
+      <stop offset="100%" stop-color="#00C9FF" />
+    </linearGradient>
+
+    <path id="wave1" d="M 0 0 C 150 -120, 250 -120, 400 0 C 550 120, 650 120, 800 0 C 950 -120, 1050 -120, 1200 0 C 1350 120, 1450 120, 1600 0" />
+    <path id="wave2" d="M 0 0 C 150 100, 250 100, 400 0 C 550 -100, 650 -100, 800 0 C 950 100, 1050 100, 1200 0 C 1350 -100, 1450 -100, 1600 0" />
+  </defs>
+
+  <rect width="100%" height="100%" fill="#0D1117" />
+
+  <g transform="translate(0, 100)">
+    <g stroke="url(#gradOrange)" fill="none" opacity="0.6">
+      <animateTransform attributeName="transform" type="translate" from="0 0" to="-800 0" dur="4s" repeatCount="indefinite" />
+      
+      <use href="#wave1" transform="scale(1, 1.3)" stroke-width="0.5" />
+      <use href="#wave1" transform="scale(1, 1.2)" stroke-width="0.8" />
+      <use href="#wave1" transform="scale(1, 1.1)" stroke-width="1" />
+      <use href="#wave1" transform="scale(1, 1.0)" stroke-width="1.5" />
+      <use href="#wave1" transform="scale(1, 0.9)" stroke-width="1" />
+      <use href="#wave1" transform="scale(1, 0.8)" stroke-width="0.8" />
+      <use href="#wave1" transform="scale(1, 0.7)" stroke-width="0.5" />
+    </g>
+  </g>
+
+  <g transform="translate(0, 100)">
+    <g stroke="url(#gradBlue)" fill="none" opacity="0.7">
+      <animateTransform attributeName="transform" type="translate" from="-800 0" to="0 0" dur="6s" repeatCount="indefinite" />
+      
+      <use href="#wave2" transform="scale(1, 1.4)" stroke-width="0.5" />
+      <use href="#wave2" transform="scale(1, 1.25)" stroke-width="0.8" />
+      <use href="#wave2" transform="scale(1, 1.1)" stroke-width="1" />
+      <use href="#wave2" transform="scale(1, 0.95)" stroke-width="1.5" />
+      <use href="#wave2" transform="scale(1, 0.8)" stroke-width="1" />
+      <use href="#wave2" transform="scale(1, 0.65)" stroke-width="0.8" />
+      <use href="#wave2" transform="scale(1, 0.5)" stroke-width="0.5" />
+    </g>
+  </g>
+</svg>
