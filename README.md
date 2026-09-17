@@ -3,14 +3,11 @@
   <img src="./header-matrix.svg" alt="Cyber Matrix Banner" width="100%" />
   
   <p align="center">
-    <a href="https://www.linkedin.com/in/muhammadhabib16/"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00FF41" alt="LinkedIn"></a>
+    <a href="https://www.linkedin.com/in/muhammadhabib16/"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=FFFFFF" alt="LinkedIn"></a>
     <a href="https://www.instagram.com/m_habib_08"><img src="https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=00FF41" alt="Instagram"></a>
     <a href="mailto:mhabibmhabib05@gmail.com"><img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=00FF41" alt="Email"></a>
   </p>
   
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=muhammadhabib16&theme=matrix&no-frame=true&no-bg=true&margin-w=15&v=2" alt="GitHub Trophies" />
-  </a>
 
   <br><br>
 
