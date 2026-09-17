@@ -12,21 +12,11 @@
     <img src="https://github-profile-trophy.vercel.app/?username=muhammadhabib16&theme=matrix&no-frame=true&no-bg=true&margin-w=15&v=2" alt="GitHub Trophies" />
   </a>
 
-</div>
+  <br><br>
 
----
+  <img src="./terminal-about.svg" alt="Terminal About Me" width="100%" />
 
-### >_ whoami
-I am an Information Systems student and Lab Teaching Assistant at Universitas Andalas with a strong drive for software engineering and system architecture. Beyond writing code for full-stack web and mobile applications, my playground involves configuring Linux homelab servers, automating CI/CD pipelines, and exploring the intersection of AI and cloud computing. I thrive in collaborative tech environments like UKM Neo Telemetri, where I continuously build scalable solutions and share knowledge with peers.
-
-### >_ current_directives
-- Exploring Advanced System Architecture, modern CI/CD workflows, and AI Machine Learning integration.
-- Assisting in practical sessions at the Laboratory Of Systems Development, Universitas Andalas.
-- Expanding technical expertise in Cloud Computing, Mobile Programming, DevOps, and Networking.
-
----
-
-<div align="center">
+  <br><br>
 
   <h3>Tech Stack & Tools</h3>
   <a href="https://skillicons.dev">
