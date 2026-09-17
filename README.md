@@ -2,7 +2,7 @@
 
   <!-- Animasi Typing Nuansa Cyber/Matrix -->
   <a href="mailto:mhabibmhabib05@gmail.com" target="_blank" title="Ping the sysadmin!">
-    <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=600&size=24&pause=1000&color=00FF41&background=0D1117&center=true&vCenter=true&width=600&height=60&lines=>_SYSTEM+INITIALIZED...;>_HELLO,+BOS!;>_ACCESSING+MAINFRAME...;>_FULL-STACK+PROTOCOL+ENGAGED&v=2" alt="Typing SVG Matrix" />
+    <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=600&size=24&pause=1000&color=00FF41&background=0D1117&center=true&vCenter=true&width=600&height=60&lines=>_SYSTEM+INITIALIZED...;>_HELLO,+FELLAS!;My+Name+Is;MUHAMMAD+HABIB!;>_ACCESSING+MAINFRAME...;>_FULL-STACK+PROTOCOL+ENGAGED&v=2" alt="Typing SVG Matrix" />
   </a>
   
   <p align="center">
@@ -19,10 +19,13 @@
 
 ---
 
-### Log Data: Current Directives
-- Exploring Advanced System Architecture, CI/CD pipelines, and AI Machine Learning integration.
-- Information Systems student, Assistant at Laboratory Of Systems Development Universitas Andalas, and active member of **UKM Neo Telemetri**.
-- Have Interest in Cloud Computing, Mobile Programming, DevOps, Networking and etc.
+### >_ whoami
+I am an Information Systems student and Lab Teaching Assistant at Universitas Andalas with a strong drive for software engineering and system architecture. Beyond writing code for full-stack web and mobile applications, my playground involves configuring Linux homelab servers, automating CI/CD pipelines, and exploring the intersection of AI and cloud computing. I thrive in collaborative tech environments like UKM Neo Telemetri, where I continuously build scalable solutions and share knowledge with peers.
+
+### >_ current_directives
+- Exploring Advanced System Architecture, modern CI/CD workflows, and AI Machine Learning integration.
+- Assisting in practical sessions at the Laboratory Of Systems Development, Universitas Andalas.
+- Expanding technical expertise in Cloud Computing, Mobile Programming, DevOps, and Networking.
 
 ---
 
@@ -35,7 +38,7 @@
 
   <br><br>
 
-  <!-- Spotify API di-comment sementara sampai Bos punya UID resminya -->
+  <!-- Spotify API di-comment sementara sampai mendapatkan UID resmi -->
   <!-- 
   <h3>Now Playing</h3>
   <a href="https://spotify-github-profile.vercel.app/api/view?uid=UID_DISINI&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false">
