@@ -1,11 +1,17 @@
 <div align="center">
 
-  <!-- Animasi Typing -->
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=36BCF5&center=true&vCenter=true&width=435&lines=Halo+Bos!;Full-Stack+Developer;Data+Enthusiast;Software+Engineer" alt="Typing SVG" />
+  <!-- Animasi Typing Dinamis & Interaktif -->
+  <a href="mailto:mhabibmhabib05@gmail.com" target="_blank" title="Klik untuk mengirim email ke saya!">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=25&pause=1000&color=7AA2F7;BB9AF7;7DCFFF;9ECE6A&center=true&vCenter=true&width=600&height=50&lines=Hello+World!;Full-Stack+Developer;Data+Enthusiast;Software+Engineer;Muhammad+Habib" alt="Typing SVG" />
   </a>
   
   <br><br>
+
+  <!-- Tech Stack & Tools -->
+  <h3>🛠️ Tech Stack & Tools</h3>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,ts,php,python,dart,kotlin,react,nextjs,tailwind,laravel,fastapi,nodejs,flutter,mysql,postgres,sqlite,firebase,supabase,ubuntu,linux,docker,nginx&perline=11" alt="Tech Stack" />
+  </a>
 
   <!-- Tech Stack & Tools -->
   <h3>🛠️ Tech Stack & Tools</h3>
