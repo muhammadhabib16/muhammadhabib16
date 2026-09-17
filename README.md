@@ -21,11 +21,11 @@
       <td width="50%" align="center" valign="top">
         <h3 align="center">📊 System Analytics</h3>
         <a href="https://github.com/muhammadhabib16">
-          <img src="https://github-readme-stats.vercel.app/api?username=muhammadhabib16&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=3600&v=2" alt="Statistik GitHub" width="98%" />
+          <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=muhammadhabib16&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Statistik GitHub" width="98%" />
         </a>
         <br>
         <a href="https://github.com/muhammadhabib16">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadhabib16&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=3600&v=2" alt="Bahasa Teratas" width="98%" />
+          <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=muhammadhabib16&layout=compact&theme=tokyonight&hide_border=true" alt="Bahasa Teratas" width="98%" />
         </a>
       </td>
     </tr>
